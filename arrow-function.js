@@ -14,3 +14,5 @@ const somaNumerosPequenos = (num1, num2) => {
         return num1 + num2;
     }
 }
+
+//Assim como as funções de expressões, a Arrow function não tem suporte para hoisting
